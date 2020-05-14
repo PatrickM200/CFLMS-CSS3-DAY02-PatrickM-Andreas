@@ -1,4 +1,4 @@
-container {
+.container {
 	width: 800px;
 	margin: auto;
 	box-shadow: 0 3px 0 3px #000;
@@ -7,7 +7,7 @@ container {
 }
 
 p, li{
-	color:#707070 ;
+	color:#707070;
 }
 
 header {
@@ -28,4 +28,10 @@ h3{
 
 hero {
 	
+}
+
+.rating {
+
+
+
 }
