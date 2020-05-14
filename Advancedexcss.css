@@ -16,9 +16,36 @@ header {
 }
 
 .feat {
-		background-color: lightgray;
+	background-color: lightgray;
 	text-align: center;
-	word-spacing: 15px;
 	height: 50px;
 	padding-top: 25px;
+
 }
+
+
+
+footer {
+	background-color: lightgray;
+	text-align: center;
+	height: 50px;
+	padding-top: 25px;
+	clear: both;
+
+
+}
+
+.box {
+     float: left;
+     width: 32%;
+     background-color: lightgray;
+    
+}
+
+
+
+
+.row:after{
+	clear: both;
+}
+
